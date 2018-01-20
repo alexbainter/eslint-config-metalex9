@@ -23,5 +23,8 @@
   "homepage": "https://github.com/metalex9/eslint-config-metalex9#readme",
   "peerDependencies": {
     "eslint": ">= 4.16.*"
+  },
+  "engines": {
+    "node": ">= 7.*.*, >= 8.*.*,  >= 9.*.*"
   }
 }
