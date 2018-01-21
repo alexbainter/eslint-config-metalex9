@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-metalex9",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Personal ESLint configuration used by metalex9.",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,12 @@
     "type": "git",
     "url": "git+https://github.com/metalex9/eslint-config-metalex9.git"
   },
-  "keywords": ["eslint", "config", "metalex9"],
-  "author":
-    "Alex Bainter <https://github.com/metalex9> (alexbainter+github@gmail.com)",
+  "keywords": [
+    "eslint",
+    "config",
+    "metalex9"
+  ],
+  "author": "Alex Bainter <https://github.com/metalex9> (alexbainter+github@gmail.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/metalex9/eslint-config-metalex9/issues"
