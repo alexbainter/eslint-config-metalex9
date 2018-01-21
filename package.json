@@ -8,7 +8,7 @@
     "test": "mocha \"./{,!(node_modules)/**/}*.spec.js\" --watch",
     "prettier": "prettier --write \"**/*.js\"",
     "lint": "eslint .",
-    "ci": "npm run lint && npm run test-ci",
+    "ci": "npm run prettier && npm run lint && npm run test-ci",
     "preversion": "npm run ci",
     "postversion": "git push && git push --tags"
   },
