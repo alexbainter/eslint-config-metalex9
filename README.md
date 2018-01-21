@@ -2,7 +2,7 @@
 
 Personal ESLint configuration used by [metalex9].
 
-[![npm version](https://badge.fury.io/js/eslint-config-spreetail.svg)](https://badge.fury.io/js/eslint-config-metalex9)
+[![npm version](https://badge.fury.io/js/eslint-config-metalex9.svg)](https://badge.fury.io/js/eslint-config-metalex9)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ## Installation
