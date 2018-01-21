@@ -12,6 +12,9 @@
     "preversion": "npm run ci",
     "postversion": "git push && git push --tags"
   },
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/metalex9/eslint-config-metalex9.git"
