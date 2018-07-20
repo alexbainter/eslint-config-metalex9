@@ -24,7 +24,7 @@ You can run the linting with `npm run lint`.
 
 ## Testing
 
-You can run unit tests with `npm run test`.
+You can run unit tests with `npm test`.
 
 [metalex9]: https://github.com/metalex9
 [npm]: https://www.npmjs.com/
